@@ -6,7 +6,6 @@ Time: 8/21/2020, One Day Project
 ## Sites
 
 * [Spotify Web API]
-* [Requests Library v 2.22.0]
 
 ## How to use:
 
